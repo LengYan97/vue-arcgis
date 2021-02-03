@@ -6,7 +6,7 @@
 
 <script>
 // @ is an alias to /src
-import home from "./mapcreated/createmap";
+import home from "./home/createmap";
 export default home;
 </script>
 <style scoped>
